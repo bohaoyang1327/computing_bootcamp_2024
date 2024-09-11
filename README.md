@@ -1,6 +1,6 @@
 # DSS Computing Bootcamp 2024
 
-Change.
+Lexi change.
 
 
 This repository contains the computing bootcamp materials for incoming
